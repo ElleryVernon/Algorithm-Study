@@ -1,3 +1,4 @@
+# 너무 휑해서 카운터함수 
 def count(iterable, target):
     cnt = 0
     for item in iterable:
