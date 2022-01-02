@@ -1,4 +1,4 @@
-# 너무 휑해서 카운터함수 만들어봄. 내장으로도 
+# 너무 휑해서 카운터함수 만들어봄. 내장으로도 존재함
 def count(iterable, target):
     cnt = 0
     for item in iterable:
