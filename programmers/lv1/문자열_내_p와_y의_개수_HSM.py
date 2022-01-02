@@ -3,7 +3,7 @@ def count(iterable, target):
     cnt = 0
     for item in iterable:
         if item == target:
-            count += 1
+            cnt += 1
     return cnt
             
 
